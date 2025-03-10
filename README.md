@@ -39,6 +39,7 @@ simple-agenda-python/
 │-- main.py            # Main script to run the application
 │-- contacts.py        # Module handling contact operations
 │-- README.md          # Project documentation
+│-- README.pt-br.md    # Project documentation in pt-br :)
 ```
 
 Feel free to access it as needed! 🚀
